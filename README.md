@@ -1,1 +1,1 @@
-# Scissors-Paper-Stone-game
+Fun little Scissors Paper Stone game against Batman! 
